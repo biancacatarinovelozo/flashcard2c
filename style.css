@@ -45,7 +45,7 @@ h1 {
 }
 
 footer {
-    background-color: #e7e7e7;
+    background-color: #0a0000;
     padding: 15px 25px;
     color: #fff;
 }
@@ -63,7 +63,7 @@ footer {
 .cartao-frente, .cartao-verso {
     position: absolute;
     border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 6px 12px rgb(255, 254, 254);
     backface-visibility: hidden;
 }
 
